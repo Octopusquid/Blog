@@ -1,0 +1,52 @@
+.menu {
+    font-size: large;
+    border: 2px solid purple;
+    padding: 1%;
+}
+
+h1 {
+    font-style: italic;
+}
+
+ul {
+    font-style: initial;
+    color: darkblue
+}
+
+#zona-encabezado {
+    width: 100%;
+    background-color: blue; color: rgb(13, 226, 95);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#zona-imagenes {
+    width: 100%;
+    background-color: rgb(83, 6, 119);
+    text-align: center;
+}
+
+.texto-final {
+    width: 100%;
+    background-color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding: 1%;
+}
+
+.texto-cuerpo {
+    width: 100%;
+    background-color: purple; color: rgb(155, 224, 226);
+    padding: 1%;
+    text-align: center;
+    font-size: 12pt;
+}
+
+img {
+    width: 30%;
+}
+
+span {
+    font-style: italic;
+    color: white;
+}
